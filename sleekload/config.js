@@ -92,7 +92,7 @@ config.background_overlay = true
 
 // Background darkening amount
 // 0 for none (0%), 100 for pitch black (100%)
-config.background_darkening = 30
+config.background_darkening = 0
 
 // Play music during the loading screen?
 // "true" or "false"
