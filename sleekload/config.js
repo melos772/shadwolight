@@ -131,7 +131,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to shadwolight",
+	"Welcome to shadowlight",
 	"das team wünscht euch einen guten tag",
 	"habt spass",
 ]
