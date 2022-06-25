@@ -110,7 +110,7 @@ config.music_show = true
 config.music_playlist = [
 	{
 		name: "vode on",
-		file: "vode on.mp3",
+		file: "vode on.ogg",
 	},
 ]
 
