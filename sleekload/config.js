@@ -41,7 +41,7 @@ config.logo_show_info = true
 // Use a video for the background?
 // Otherwise it will use images
 // "true" or "false"
-config.background_use_video = true
+config.background_use_video = false
 
 // Default available videos:
 // "blue_rays.webm"
@@ -60,7 +60,7 @@ config.background_video = "purple_blue_rays.webm"
 // Also, the image needs to be in .jpg format
 // E.g: gm_flatgrass.jpg, gm_construct.jpg, rp_downtown_v4c_v2.jpg
 // "true" or "false"
-config.background_map_based = false
+config.background_map_based = true
 
 // (Image-background only)
 // Place one or more images
@@ -120,7 +120,7 @@ config.music_random_order = true
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-config.music_volume = 60
+config.music_volume = 100
 
 // Use Gmod volume for the music instead of manual volume
 config.music_gmod_volume = true
